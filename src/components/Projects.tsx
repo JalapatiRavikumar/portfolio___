@@ -88,8 +88,8 @@ const Projects = () => {
       title: "Food Delivery App",
       description: "A comprehensive food delivery application with restaurant listings, ordering system, and real-time tracking.",
       technologies: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
-      imageUrl: "https://i.pinimg.com/736x/bb/90/fe/bb90fe739b02635e8009fa1f8f4718c5.jpg",
-      githubLink: "https://github.com/JalapatiRavikumar/Games_projects/tree/main/Mario%20Game"
+      imageUrl: "https://camo.githubusercontent.com/6f026f434d463649c41237a017645202c8efc2fd26e889220a8795d323b1d2fb/68747470733a2f2f696d6775722e636f6d2f7633654f6563382e706e67",
+      githubLink: "https://echo-gemini-chat.vercel.app/"
     },
     {
       title: "YouTube Clone",
